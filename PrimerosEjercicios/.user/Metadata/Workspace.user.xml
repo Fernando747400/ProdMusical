@@ -7,7 +7,7 @@
 	</object>
 	<object class="ProjectSettings" id="{1504d7cd-5f2b-4798-8149-7244c0242763}">
 		<property name="windowLayout">
-			<value>AAAAAQAAABYAQQB1AGQAaQBvACAAQgBpAG4AIAAxAAAAQgHZ0MsAAwAAAAAFYwAAAOYAAAb0AAAD1QAABWQAAAEFAAAG8wAAA9QAAAAAAAAAAAeAAAAFZAAAAQUAAAbzAAAD1A==</value>
+			<value>AAAAAQAAABYAQQB1AGQAaQBvACAAQgBpAG4AIAAxAAAAQgHZ0MsAAwAAAAAATAAAAY4AAAMvAAAEsgAAAE0AAAGtAAADLgAABLEAAAAAAAAAAAeAAAAATQAAAa0AAAMuAAAEsQ==</value>
 		</property>
 		<relationship name="activePlatform">
 			<destination>{cca39def-b354-4c62-acfb-cc314510e4b3}</destination>

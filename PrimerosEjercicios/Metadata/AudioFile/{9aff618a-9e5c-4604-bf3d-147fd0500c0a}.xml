@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{9aff618a-9e5c-4604-bf3d-147fd0500c0a}">
+		<property name="assetPath">
+			<value>Ambientales/zapsplat_animals_birds_dawn_chorus_lake_qld_australia_light_construction_in_medium_distance_70288.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>100.92</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7a99c449-6b1a-47c7-9098-0787ad7d1622}</destination>
+		</relationship>
+	</object>
+</objects>
