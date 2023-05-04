@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{9f1ef6b9-2e7e-4c4f-9475-8026ecc125b4}">
+		<property name="assetPath">
+			<value>PasosPasto/Footstep Grass 6.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.38</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7a99c449-6b1a-47c7-9098-0787ad7d1622}</destination>
+		</relationship>
+	</object>
+</objects>
