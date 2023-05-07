@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{3a2f24c4-5839-481c-ac6a-a5053b2ce750}">
 		<property name="name">
-			<value>MissleLaunch</value>
+			<value>MissileLaunch</value>
 		</property>
 		<property name="outputFormat">
 			<value>2</value>
@@ -31,6 +31,9 @@
 		<relationship name="parameters">
 			<destination>{14d557b4-7b3a-48c9-83e6-68535525fc1b}</destination>
 		</relationship>
+		<relationship name="banks">
+			<destination>{c62f226c-ef76-46a4-b6dd-3d25715f92ab}</destination>
+		</relationship>
 	</object>
 	<object class="EventMixer" id="{38e38142-6d9f-4840-aa90-ce514f779ea7}">
 		<relationship name="masterBus">
@@ -53,7 +56,7 @@
 			<destination>{fc40c302-0873-4f38-bea0-82efe9d69896}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{23976d85-b9b3-4ed3-b46a-f146046b8d95}</destination>
+			<destination>{eee715f4-29ec-4ad6-a3ca-0af2a383b92f}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{88e3cea0-cd30-4937-81d9-276f5fbc9950}" />

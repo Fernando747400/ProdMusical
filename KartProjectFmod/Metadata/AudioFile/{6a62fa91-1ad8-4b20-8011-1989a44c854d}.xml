@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{ee72eae7-f817-44f5-8cda-a18c801d1765}">
+	<object class="AudioFile" id="{6a62fa91-1ad8-4b20-8011-1989a44c854d}">
 		<property name="assetPath">
-			<value>zapsplat_warfare_missile_small_launch_designed_004_62890.mp3</value>
+			<value>zapsplat_warfare_bomb_hit_explode_001_89956.mp3</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
@@ -11,7 +11,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>7.2480000000000002</value>
+			<value>4.3920000000000003</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{8e66b6b7-e984-4153-8799-0dcb98e09750}</destination>
