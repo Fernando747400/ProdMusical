@@ -26,7 +26,7 @@ public class FAudioMixer : MonoBehaviour
     {
         _mainBus = FMODUnity.RuntimeManager.GetBus("bus:/Main");
         //_musicBus = FMODUnity.RuntimeManager.GetBus("bus:/Master/MusicBus");
-        //_sfxBus = FMODUnity.RuntimeManager.GetBus("bus:/Master/SFXBus");
+        _sfxBus = FMODUnity.RuntimeManager.GetBus("bus:/Main/SFXBus");
         //_ambienceBus = FMODUnity.RuntimeManager.GetBus("bus:/Master/AmbienceBus");
         _engineBus = FMODUnity.RuntimeManager.GetBus("bus:/Main/EngineBus");
     }
@@ -35,7 +35,7 @@ public class FAudioMixer : MonoBehaviour
     {
         _mainBus.setVolume(_masterVolume);
         //_musicBus.setVolume(_musicVolume);
-        //_sfxBus.setVolume(_sfxVolume);
+        _sfxBus.setVolume(_sfxVolume);
         //_ambienceBus.setVolume(_ambienceVolume);
         _engineBus.setVolume(_engineVolume);
     }

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{83974fdf-6fb7-4941-86be-46c1c2f59178}">
+		<property name="assetPath">
+			<value>pm_sb_source_30_impact_brick_rock_dirt_gravel_single_hit_291.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.9199999999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8e66b6b7-e984-4153-8799-0dcb98e09750}</destination>
+		</relationship>
+	</object>
+</objects>
