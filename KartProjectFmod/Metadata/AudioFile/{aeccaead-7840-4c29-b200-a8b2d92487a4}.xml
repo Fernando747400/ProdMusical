@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{aeccaead-7840-4c29-b200-a8b2d92487a4}">
+		<property name="assetPath">
+			<value>Ambience/zapsplat_public_places_city_alley_distant_traffic_and_construction_few_pedestrians_city_hum_alley_off_bridge_street_sydney_cbd_australia_32732.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>150.21600000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8e66b6b7-e984-4153-8799-0dcb98e09750}</destination>
+		</relationship>
+	</object>
+</objects>

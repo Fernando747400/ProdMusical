@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{83974fdf-6fb7-4941-86be-46c1c2f59178}">
 		<property name="assetPath">
-			<value>pm_sb_source_30_impact_brick_rock_dirt_gravel_single_hit_291.mp3</value>
+			<value>SFX/pm_sb_source_30_impact_brick_rock_dirt_gravel_single_hit_291.mp3</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

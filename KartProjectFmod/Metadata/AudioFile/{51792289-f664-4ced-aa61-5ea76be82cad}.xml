@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{51792289-f664-4ced-aa61-5ea76be82cad}">
+		<property name="assetPath">
+			<value>Ambience/leisure_fairground_ride_top_spin_rameses_revenge_cwo.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>123.672</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8e66b6b7-e984-4153-8799-0dcb98e09750}</destination>
+		</relationship>
+	</object>
+</objects>

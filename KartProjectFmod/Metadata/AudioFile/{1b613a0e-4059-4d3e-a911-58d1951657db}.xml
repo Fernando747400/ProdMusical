@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{1b613a0e-4059-4d3e-a911-58d1951657db}">
+		<property name="assetPath">
+			<value>Ambience/transport_aircraft_extra_flugzeugbau_ea300_x4_airshow_acrobatics_close_by_001.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>27.984000000000002</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8e66b6b7-e984-4153-8799-0dcb98e09750}</destination>
+		</relationship>
+	</object>
+</objects>

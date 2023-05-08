@@ -2,10 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{53abae32-c124-4b71-ab1f-7ab2da3ed9e5}">
 		<property name="assetPath">
-			<value>music_zapsplat_easy_cheesy.mp3</value>
-		</property>
-		<property name="isStreaming">
-			<value>true</value>
+			<value>Music/music_zapsplat_easy_cheesy.mp3</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
