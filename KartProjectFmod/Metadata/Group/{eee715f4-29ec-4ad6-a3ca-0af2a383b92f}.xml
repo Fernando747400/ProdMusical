@@ -22,5 +22,9 @@
 	</object>
 	<object class="MixerBusPanner" id="{7430dae1-eb85-45a5-ae85-3375398ad794}" />
 	<object class="MixerBusFader" id="{3086a3cd-1ff2-4070-9faa-1b08d58e2af6}" />
-	<object class="CompressorEffect" id="{4a2b9f79-410b-4147-8f81-5c5cfcb384f9}" />
+	<object class="CompressorEffect" id="{4a2b9f79-410b-4147-8f81-5c5cfcb384f9}">
+		<property name="ratio">
+			<value>2</value>
+		</property>
+	</object>
 </objects>
