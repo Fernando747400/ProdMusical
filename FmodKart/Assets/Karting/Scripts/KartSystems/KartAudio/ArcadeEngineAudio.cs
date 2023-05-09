@@ -24,5 +24,12 @@ namespace KartGame.KartSystems
             var emitter = GetComponent<FMODUnity.StudioEventEmitter>();
             emitter.SetParameter("RPM", effectiveRPM);
         }
+
+        private void OnDisable()
+        {
+            var emitter = GetComponent<FMODUnity.StudioEventEmitter>().EventInstance;
+            emitter.stop(FMOD.Studio.STOP_MODE.IMMEDIATE);
+            emitter.release();
+        }
     }
 }

@@ -13,14 +13,17 @@ public class FAudioMixer : MonoBehaviour
     [SerializeField] private float _sfxVolume = 1f;
     [Range (0f, 1f)]
     [SerializeField] private float _ambienceVolume = 1f;
-    [Range (0f, 1f)]
+    [Range(0f, 1f)]
     [SerializeField] private float _engineVolume = 1f;
+    [Range(0f, 1f)]
+    [SerializeField] private float _stingersVolume = 1f;
 
     private Bus _mainBus;
     private Bus _musicBus;
     private Bus _sfxBus;
     private Bus _ambienceBus;
     private Bus _engineBus;
+    private Bus _stingersBus;
 
     private void Awake()
     {
@@ -29,6 +32,7 @@ public class FAudioMixer : MonoBehaviour
         _sfxBus = FMODUnity.RuntimeManager.GetBus("bus:/Main/SFXBus");
         _ambienceBus = FMODUnity.RuntimeManager.GetBus("bus:/Main/AmbianceBus");
         _engineBus = FMODUnity.RuntimeManager.GetBus("bus:/Main/EngineBus");
+        _stingersBus = FMODUnity.RuntimeManager.GetBus("bus:/Main/StingersBus");
     }
 
     private void Start()
@@ -48,5 +52,6 @@ public class FAudioMixer : MonoBehaviour
         _sfxBus.setVolume(_sfxVolume);
         _ambienceBus.setVolume(_ambienceVolume);
         _engineBus.setVolume(_engineVolume);
+        _stingersBus.setVolume(_stingersVolume);
     }
 }

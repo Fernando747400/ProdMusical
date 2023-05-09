@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{4325cbb9-bb8d-417c-afe5-5cf97544a818}">
+		<property name="assetPath">
+			<value>SFX/zapsplat_multimedia_game_sound_musical_riff_end_finish_simple_002_99652.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>6.7919999999999998</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8e66b6b7-e984-4153-8799-0dcb98e09750}</destination>
+		</relationship>
+	</object>
+</objects>
